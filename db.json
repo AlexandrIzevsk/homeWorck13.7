@@ -1,0 +1,9 @@
+{
+  "Tasks": [
+    {"id": 1, "task": "customization webpack-dev-server"},
+    {"id": 2, "task": "customization Hot module replacement"},
+    {"id": 3, "task": "running on different environments"},
+    {"id": 4, "title": "configure the JSON-server and display the data received from it"},
+    {"id": 5, "task": "Add the launch of the linter at the commit"}
+  ]
+}

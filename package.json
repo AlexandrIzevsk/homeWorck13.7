@@ -4,7 +4,9 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "start-dev": "webpack serve --config webpack.config.js",
+    "start-prod": "webpack serve --config webpack.prod.js"
   },
   "private": true,
   "repository": {
