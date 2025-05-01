@@ -6,6 +6,8 @@ module.exports = {
     mode: 'development',
     devServer: {
         static: './dist',
+        // contentBase: './dist',
+        hot: true,
     },
     plugins: [
         new HtmlWebpackPlugin ({
