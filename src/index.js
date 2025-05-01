@@ -1,1 +1,3 @@
-console.log('Happy developing ✨')
+import './style.css';
+
+document.write('Hello, world!');
