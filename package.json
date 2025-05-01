@@ -1,0 +1,20 @@
+{
+  "name": "home_worck13.7",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrIzevsk/homeWorck13.7.git"
+  },
+  "author": "Alexandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrIzevsk/homeWorck13.7/issues"
+  },
+  "homepage": "https://github.com/AlexandrIzevsk/homeWorck13.7#readme",
+  "description": ""
+}
